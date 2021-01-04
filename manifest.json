@@ -1,7 +1,7 @@
 {
-  "name": "LinkedIn Email Finder",
+  "name": "Free LinkedIn Email Finder",
   "version": "1.0",
-  "description": "Connect with professionals via email from their LinkedIn profile",
+  "description": "Find business emails of LinkedIn members. Unlimited free usage. No registrations required.",
   "manifest_version": 2,
   "permissions": [
     "tabs",
