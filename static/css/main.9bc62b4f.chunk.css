@@ -92,15 +92,16 @@ h2 {
     display:flex;
     align-items:center;
     font-family: roboto;
+    text-align: center;
 }
 
 .email-buttons {
     justify-content:space-between;
-    width:120px
+    width:341px
 }
 
 .email-buttons>a,.email-buttons>div {
-    width:45px;
+    width:100px;
     height:45px;
     background-color:#fff;
     border-radius:10%;
